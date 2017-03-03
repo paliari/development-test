@@ -15,9 +15,6 @@ O programador poderá escolher *uma* das tres linguagens para resolver o problem
 4. Retorno correto da quantidade de notas de acordo com o valor passado
 5. Código identado e formatado de acordo com os padrões de boas práticas de cada linguagem
 
-> Ao concluir, publicar o código na sua conta do *GitHub* e preencher
-> **[Este Formulário](https://goo.gl/forms/uVHgRV1ExSbhCL8S2)** para que possa ser avaliado.
-
 ## Pontos extras
 
 Os critérios acima são os requisitos mínimos. Mas para os candidatos que pretendem se destacar, segue algumas sugestões.
@@ -84,3 +81,9 @@ a quantidade de notas necessárias de cada cédula, para completar o valor em re
 
     $ ruby ruby/console.rb 112.1
     {:"100"=>1, :"50"=>0, :"20"=>0, :"10"=>1, :"5"=>0, :"2"=>1, :"1"=>0, :"0.5"=>0, :"0.25"=>0, :"0.1"=>1, :"0.01"=>0}
+
+
+---
+
+> Ao concluir, publicar o seu projeto com a solução na sua conta do *GitHub* e preencher
+> **[Este Formulário](https://goo.gl/forms/uVHgRV1ExSbhCL8S2)** para que possa ser avaliado.

@@ -15,7 +15,8 @@ O programador poderá escolher *uma* das tres linguagens para resolver o problem
 4. Retorno correto da quantidade de notas de acordo com o valor passado
 5. Código identado e formatado de acordo com os padrões de boas práticas de cada linguagem
 
-> Ao concluir, publicar o código na sua conta do *GitHub* e enviar um email com o link do repositório para ser avaliado.
+> Ao concluir, publicar o código na sua conta do *GitHub* e preencher
+> **[Este Formulário](https://goo.gl/forms/uVHgRV1ExSbhCL8S2)** para que possa ser avaliado.
 
 ## Pontos extras
 

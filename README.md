@@ -5,7 +5,7 @@
 Este projeto é um teste simples para avaliar programadores.
 Trata-se de um problema simples, para ser resolvido no máximo em 1 hora.
 
-O programador poderá escolher **UMA** das tres linguagens para resolver o problema, **php**, **node** ou **ruby**
+O programador poderá escolher *uma* das tres linguagens para resolver o problema, **php**, **node** ou **ruby**
 
 ## Os seguintes critérios serão avaliados
 
@@ -59,7 +59,7 @@ a quantidade de notas necessárias de cada cédula, para completar o valor em re
 A classe **Troco** no arquivo **Troco.js**, possui apenas um método, **getQtdeNotas**, que retorna a um array contendo
 a quantidade de notas necessárias de cada cédula, para completar o valor em reais passado no parâmetro.
 
-#### Exemplo de resposta esperada ao executar console.php:
+#### Exemplo de resposta esperada ao executar console.js:
 
     $ node node/console.js 112.1
     { '1': 0,
@@ -79,7 +79,7 @@ a quantidade de notas necessárias de cada cédula, para completar o valor em re
 A classe **Troco** no arquivo **troco.rb**, possui apenas um método, **get_qtd_notas**, que retorna a um array contendo
 a quantidade de notas necessárias de cada cédula, para completar o valor em reais passado no parâmetro.
 
-#### Exemplo de resposta esperada ao executar console.php:
+#### Exemplo de resposta esperada ao executar console.rb:
 
     $ ruby ruby/console.rb 112.1
     {:"100"=>1, :"50"=>0, :"20"=>0, :"10"=>1, :"5"=>0, :"2"=>1, :"1"=>0, :"0.5"=>0, :"0.25"=>0, :"0.1"=>1, :"0.01"=>0}

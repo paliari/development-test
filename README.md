@@ -4,7 +4,7 @@
 
 Este projeto é um teste simples para avaliar programadores.
 
-O programador poderá escolher *uma* das tres linguagens para resolver o problema, **php**, **node** ou **ruby**.
+O programador poderá escolher *uma* das tres linguagens para resolver o problema, **php**, **node/javascript** ou **ruby**.
 Este projeto já possui os arquivos básicos para serem usados na solução do problema.
 
 ## Os seguintes critérios serão avaliados

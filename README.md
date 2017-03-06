@@ -3,7 +3,6 @@
 ## Introdução
 
 Este projeto é um teste simples para avaliar programadores.
-Trata-se de um problema simples, para ser resolvido no máximo em 1 hora.
 
 O programador poderá escolher *uma* das tres linguagens para resolver o problema, **php**, **node** ou **ruby**.
 Este projeto já possui os arquivos básicos para serem usados na solução do problema.
